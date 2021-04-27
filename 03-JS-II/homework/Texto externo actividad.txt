@@ -1,0 +1,10 @@
+-El operador (&&) te dice en manera booleana (true o false)si dos expreciones son verdaderas.
+pero tienen que ser verdaderas las dos, si una o las dos son falsas, va a devolvernos false.
+
+-El Bucle (for) es una instruccion que se le da a nuestro codigo para que releea una y otra vez una linea de codigo,
+ hasta conseguir un resultado buscado o hasta que pase determinada cantidad de tiempo 
+
+-El operador ("OR") o (||) comparara entre dos declaraciones devolvindo true si una o dos de ellas son verdaderas o false si ambas son falsas.
+
+-El operador (!) devuelve el valor booleano contrario a los datos dados, por ejemplo:
+  (!true) devolveria "false" 
