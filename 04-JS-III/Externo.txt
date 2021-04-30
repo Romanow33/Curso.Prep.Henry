@@ -1,0 +1,2 @@
+Actividad 1 - ¿que es un array?
+un array es un contenedor de varios datos del mismo tipo, es una manera de agrupar informacion, para despues pedirla de nuevo mas facil, todo con una sola variable.- 
