@@ -1,0 +1,17 @@
+Explicaciones: 
+     
+     Objetos: los objetos son contenedores de informacion variada, dentro de un objeto se pueden asignar propiedades y cada propiedad puede tener un valor.
+     cabe destacar que es mas simple de usar al momento de tener que modificar corregir o invocar algun dato de una lista.
+     dentro de java script, todo son objetos dizfrasados y programados para nuestro uso 
+
+     propiedades: Las propiuedades son los contenedores de datos que se regisran dentro de un objeto, para poder usarlo despues, es el nombre clave de un valor asignado 
+
+     Metodos: Los metodos, son funciones qe hacen a su vez de valor para una propiedad, que funciona cuando invocamos dicha propiedad
+
+     for in: For in es un buvle como si del bucle "for" se tratara pero cambiando ligeramente sus parametros, ya que l bulce for por si solo, lee numeros, para un objeto de datos mixtos nesecitamos for in
+            para que puede saltar entre los datos y asi devolvernos el solicitado
+
+    Notacion de punto vs notacion de corchetes: Las notaciones nos sirven para llamar propiedades de nuestro objeto y asea para imprimirla o modificarla
+                        la notacion de punto llama de manera gerarquica, siendo cada punto un escalon mas abajo, muy eficaz cuando se trata de datos etaticos y que no van a cambiar.
+                        en cambio la notacion de corchetes nos prermite ser mas flexibles y comodos a la hora de usar funciones y datos que puedan variar dentro de un objeto 
+
