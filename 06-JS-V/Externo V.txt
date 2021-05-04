@@ -1,0 +1,2 @@
+Prototype : El prototype o prototipo, es un objeto que contiene metodos en otro objeto y nos permite heredarlos en diferentes ocaciones 
+Constructor : El constructor nos deja crear nuestros propios prototipos de los cuales heredar 
